@@ -1,0 +1,16 @@
+
+
+li>ul {
+	font-family:"arial, helvetica",sans-sherif;
+	font-color:#CC0000;
+	font-weight:bold;
+}
+
+a { margin: 1em 0; display: block;}
+
+<a> {color: #FF0000;}
+
+ texto-rojo {
+  color: #0000FF;
+} 
+
